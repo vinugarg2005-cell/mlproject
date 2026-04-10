@@ -1,11 +1,12 @@
-pandas
 numpy
+pandas
 seaborn
 matplotlib
 scikit-learn
 catboost
-xgboost
+xgboost==1.7.6
 dill
 Flask
+gunicorn
 #-e . '''Jab tum apna khud ka Python package bana rahe ho (ML projects, Flask apps, etc.) 
 ##aur chahte ho ki tumhara code directly source se run ho — copy karke site-packages mein install na ho.
