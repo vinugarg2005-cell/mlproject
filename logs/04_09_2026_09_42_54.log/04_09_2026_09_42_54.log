@@ -1,0 +1,8 @@
+[2026-04-09 09:42:54,745] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-04-09 09:42:54,759] 97 werkzeug - INFO -  * Debugger PIN: 112-877-671
+[2026-04-09 09:43:00,475] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 09:43:00] "GET / HTTP/1.1" 200 -
+[2026-04-09 09:43:07,089] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 09:43:07] "GET /predictdata HTTP/1.1" 200 -
+[2026-04-09 09:43:22,852] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 09:43:22] "POST /predictdata HTTP/1.1" 200 -
+[2026-04-09 09:43:40,415] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 09:43:40] "POST /predictdata HTTP/1.1" 200 -
+[2026-04-09 18:50:30,296] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 18:50:30] "POST /predictdata HTTP/1.1" 200 -
+[2026-04-10 10:55:29,171] 97 werkzeug - INFO -  * Detected change in '/Users/vinayakgarg/Desktop/mlproject/application.py', reloading

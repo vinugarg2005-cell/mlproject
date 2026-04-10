@@ -1,0 +1,19 @@
+[2026-04-09 00:19:26,189] 97 werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.2:5000
+[2026-04-09 00:19:26,190] 97 werkzeug - INFO - [33mPress CTRL+C to quit[0m
+[2026-04-09 00:19:26,191] 97 werkzeug - INFO -  * Restarting with stat
+[2026-04-09 00:19:26,986] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-04-09 00:19:26,999] 97 werkzeug - INFO -  * Debugger PIN: 112-877-671
+[2026-04-09 00:19:31,239] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 00:19:31] "POST /predictdata HTTP/1.1" 200 -
+[2026-04-09 00:19:37,024] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 00:19:37] "GET / HTTP/1.1" 200 -
+[2026-04-09 00:19:42,710] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 00:19:42] "GET /predictdata HTTP/1.1" 200 -
+[2026-04-09 00:19:53,073] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 00:19:53] "POST /predictdata HTTP/1.1" 200 -
+[2026-04-09 00:20:14,421] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 00:20:14] "POST /predictdata HTTP/1.1" 200 -
+[2026-04-09 00:20:30,396] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 00:20:30] "POST /predictdata HTTP/1.1" 200 -
+[2026-04-09 00:20:43,800] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 00:20:43] "POST /predictdata HTTP/1.1" 200 -
+[2026-04-09 00:20:59,739] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 00:20:59] "POST /predictdata HTTP/1.1" 200 -
+[2026-04-09 00:21:12,350] 97 werkzeug - INFO - 127.0.0.1 - - [09/Apr/2026 00:21:12] "POST /predictdata HTTP/1.1" 200 -
+[2026-04-09 09:29:27,062] 97 werkzeug - INFO -  * Detected change in '/Users/vinayakgarg/Desktop/mlproject/app.py', reloading
+[2026-04-09 09:29:27,300] 97 werkzeug - INFO -  * Restarting with stat
